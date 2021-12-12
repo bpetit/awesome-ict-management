@@ -1,4 +1,4 @@
-# Ressources on IT assets and devices management
+# Ressources for IT assets and devices management
 
 ## Open-Source solutions
 
