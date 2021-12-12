@@ -16,6 +16,13 @@
 
 - [Ansible CMDB](https://github.com/fboender/ansible-cmdb)
 
+## Network scanning and devices discovery
+
+- [Nmap](https://nmap.org/)
+
 # Closed source solutions
 
+## ITSM and CMDB solutions
+
+- [Lan Sweeper - includes network scanning/devices discovery](https://www.lansweeper.com/)
 - [ServiceNow](https://www.servicenow.fr/products/itsm.html)
