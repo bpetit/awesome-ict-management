@@ -5,7 +5,7 @@
 ## ITSM and CMDB solutions
 
 - [GLPI](https://glpi-project.org/fr/)
-- [Netbox](git@github.com:netbox-community/netbox.git)
+- [Netbox](https://github.com/netbox-community/netbox)
 - [Snipe IT](https://github.com/snipe/snipe-it)
 
 ## Cloud ressources management
